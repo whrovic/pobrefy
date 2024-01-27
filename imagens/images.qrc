@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="images">
+    <file>play.png</file>
+    <file>home_icon.png</file>
+    <file>shearch_icon.png</file>
+    <file>nome_edited.png</file>
+    <file>logo_edited.png</file>
+  </qresource>
+</RCC>
